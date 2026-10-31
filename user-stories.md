@@ -1,6 +1,5 @@
 # User Stories
 
-1. As a job seeker, I want to differentiate between real and fake job posting, so that I can apply the real job.
-2. As a job seeker, I want my data to be discrete, so that IÕm not exposed to data theft.
-3. As a job seeker, I want get real job, so that I can feel safe when applied online job in the market.
-
+1. As a Job Seeker, I want to check suspicious job posting text into the dashboard so that I can evaluate its legitimacy before applying.
+2. As a Job Seeker, I want to view confidence probability score for the classification so that I can measure how certain the model is about a scam detection.
+3. As a Platform Administrator, I want incoming job texts to be automatically cleaned and prepared by the system so that I can avoid manual data preparation work.
