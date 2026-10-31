@@ -1,14 +1,14 @@
 # Problem Statement
 
 ## Who is affected?
--Job seekers
+Job seekers, Fresh graduate, Inexperience worker.
 
 ## What exactly is going wrong?
--Victim falls to job scam
+Cybercriminals creating fake job descriptions to trick applicants into giving sensitive personal documents and information or paying sum of money to secure the job.
 
 ## Why does it matter?
--People exposed to the real threat
+This matters because it leads directly to financial exploitation, identity theft, and the individuals may suffer with phychological distress.
 
 ## Problem statement (3 to 5 sentences)
--cannot distinguish between real and fake job posting
+Cannot distinguish between real and fake job posting and can be target for cybersecurity threat.
 
