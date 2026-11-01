@@ -2,7 +2,7 @@
 
 ## Functional requirements (what the system must DO)
 FR-01:The system shall accept raw text input containing job titles, job descriptions, and requirements.
-FR-02:The system shall clean and preprocess input text by removing HTML tags, punctuation, unwanted tex, and performing tokenization.
+FR-02:The system shall clean and preprocess input text by removing HTML tags, punctuation, unwanted text, and performing tokenization.
 FR-03:The system shall convert text tokens into numerical vectors using TF-IDF feature extraction.
 FR-04:The classification engine shall output a prediction label indicating whether the post is `Legitimate` or `Fraudulent`.
 FR-05:The system shall display a confidence percentage score alongside the classification result to the user.
